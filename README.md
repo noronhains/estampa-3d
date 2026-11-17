@@ -19,6 +19,7 @@ No fatiador, use os mesmos valores em `First layer height` e `Layer height`. Ass
 
 - **Uma cor**: imprime as partes escuras (traço preto em fundo branco), as partes claras ou tudo que não é transparente. O limiar é ajustável.
 - **Várias cores**: separa as cores da imagem e gera um STL por cor, todos alinhados, num `.zip`. Clique numa cor pra pular, por exemplo o fundo. Se quiser, junta tudo num STL só.
+- **Recortar**: escolha só um pedaço da imagem. Arraste o retângulo e puxe cantos e bordas; uma lupa mostra o pixel exato, e as setas ajustam 1 px (Shift: 10). O que atravessa a linha é cortado reto, exatamente ali.
 - Pinta de vermelho na prévia o que é mais fino que o traço mínimo (0,4 mm por padrão), que talvez não saia na impressão.
 - Remove pontinhos de sujeira e furinhos, engrossa traços finos e espelha o desenho.
 - Avisa quando o desenho não cabe na mesa da impressora.
